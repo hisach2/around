@@ -1,0 +1,110 @@
+body{
+background-image: url("https://i.pinimg.com/originals/82/0f/27/820f2723962e710c65a7028091bf77f5.jpg");
+background-blend-mode: darken;
+
+}
+
+h1{
+    width: 5cm;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    color: black;
+    background-color: red;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: red ;
+}
+h2 {
+    color: rgb(255, 0, 0);
+    background-color: black ;
+}
+h3 {
+    
+    width: 90px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0) ;
+}
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+h4 {
+    color: rgb(255, 0, 0);
+    background-color: black ;
+}
+.obshii1
+{display: flex;
+justify-content: space-between;}
+
+.obshii3
+{display: flex;
+justify-content: space-between;}
+
+.obshii4
+{display: flex;
+justify-content: space-between;}
+
+.obshii5
+{display: flex;
+justify-content: space-between;}
+
+.obshii6
+{display: flex;
+justify-content: space-between;}
+
+.obshii7
+{display: flex;
+justify-content: space-between;}
+
+.obshii8
+{display: flex;
+justify-content: space-between;}
+
+.obshii9
+{display: flex;
+justify-content: space-between;}
+
+.obshii10
+{display: flex;
+justify-content: space-between;}
+
+.obshii11
+{display: flex;
+justify-content: space-between;}
+
+.obshii12
+{display: flex;
+justify-content: space-between;}
+
+.obshii2
+{display: flex;
+justify-content: space-between;}
+
+.obshii15
+{display: flex;
+justify-content: space-between;}
+
+.obshii16
+{display: flex;
+justify-content: space-between;}
+
+.obshii17
+{display: flex;
+justify-content: space-between;}
+
